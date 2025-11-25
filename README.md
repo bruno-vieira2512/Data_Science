@@ -4,3 +4,5 @@ Meu portfólio de projetos de Data Science (My portfolio of Data Science project
 <p align="center">
   <img src="https://github.com/bruno-vieira2512/Data_Science/blob/main/banner.png" >
 </p>
+
+**Background in:** Python, Spark, Machine Learning, Deep Learning, Gen AI, Bigquery, AWS, Bedrock, Sagemaker, Databricks.
